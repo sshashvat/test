@@ -1,0 +1,39 @@
+src_hub,Region,Name,Size,Category,Vehicle  size,Payload,Throughput %,State,Broad Region
+AGRB,N24,Agra,Others,New,32 feet,13500,20,Uttar Pradesh,N
+AMCH,N15,Ambala,Small,Broad,32 feet,13500,200,Haryana,N
+AMDH,W11,Changodar,Small,Broad,32 feet,13500,15,Gujarat,W
+BBIH,E21,Bhubneshwar ,Small,Broad,32 feet,13500,50,Odisha,E
+BGMH,W52,Belgaum ,Small,Broad,32 feet,13500,20,Karnataka,W
+BLRH,S21,Bangalore,Large,Broad,32 feet,13500,40,Karnataka,S
+BOMH,W21,Bombay,Large,Broad,32 feet,13500,30,Maharashtra,W
+BUPF,N16,Bathinda,Others,New,32 feet,13500,10,Punjab,N
+CCUH,E23,Howrah ,Medium,Broad,32 feet,13500,15,West Bengal,E
+CJBH,S12,Coimbatore ,Others,New,32 feet,13500,50,Tamil Nadu,S
+COKB,S11,Cochin,Others,New,32 feet,13500,10,Kerala,S
+DELH,N22,Delhi,Large,Broad,32 feet,13500,60,Delhi,N
+GAUB,E13,Guwahati,Small,Broad,32 feet,13500,10,Assam,E
+GOIB,W51,Goa,Others,New,32 feet,13500,10,Goa,W
+HDRB,N17,Haridwar,Small,None,32 feet,13500,25,Uttarakhand,N
+HYDH,S41,Hyderabad,Medium,Broad,32 feet,13500,45,Telangana,S
+IDRH,W41,Indore,Medium,Broad,32 feet,13500,50,Madhya Pradesh,C
+IXCB,N13,Chandigarh,Others,New,24 feet,8200,25,Haryana,N
+IXRB,E22,Ranchi,None,None,32 feet,13500,120,Jharkhand,E
+JAIH,N41,Jaipur,Medium,Broad,32 feet,13500,30,Rajasthan,N
+KNPH,N31,Kanpur,Small,Broad,32 feet,13500,90,Uttar Pradesh,N
+LKOH,N32,Lucknow,Others,New,32 feet,13500,10,Uttar Pradesh,N
+LUHB,N11,Ludhiana,Others,New,32 feet,13500,15,Punjab,N
+MAAH,S31,Chennai,Medium,Broad,32 feet,13500,10,Tamil Nadu,S
+NAGH,W42,Nagpur,Small,Broad,32 feet,13500,140,Maharashtra,C
+NDAH,N23,Noida,Small,Broad,32 feet,13500,50,Uttar Pradesh,N
+PATH,E11,Patna,Small,Broad,32 feet,13500,100,Bihar,E
+PNPF,N21,Panipat,Others,New,32 feet,13500,10,Haryana,N
+PNQH,W31,Pune,Medium,Broad,32 feet,13500,40,Maharashtra,W
+PWNB,N12,Parwanoo,Others,New,24 feet,8200,10,Himachal Pradesh,N
+RDPF,N25,Rudrapur,Others,New,32 feet,13500,10,Uttarakhand,N
+RPRH,W43,Raipur,Small,Broad,32 feet,13500,10,Chhattisgarh,C
+SILB,E12,Siliguri,Small,Broad,32 feet,13500,50,West Bengal,E
+SNRH,W33,Sinnar,Others,New,32 feet,13500,20,Maharashtra,W
+SXVF,S13,Salem,Others,New,32 feet,13500,25,Tamil Nadu,S
+UDRF,N42,Udaipur,Others,New,24 feet,8200,20,Rajasthan,N
+VPIH,W22,Vapi,Others,New,32 feet,13500,30,Gujarat,W
+VZAH,S42,Vijayawada,Small,Broad,32 feet,13500,60,Andhra Pradesh,S
